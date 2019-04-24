@@ -1,0 +1,13 @@
+C:\Users\Tim\Desktop\guia 1\ejercicio1\ejercicio1\bin\Debug\ejercicio1.exe.config
+C:\Users\Tim\Desktop\guia 1\ejercicio1\ejercicio1\bin\Debug\ejercicio1.exe
+C:\Users\Tim\Desktop\guia 1\ejercicio1\ejercicio1\bin\Debug\ejercicio1.pdb
+C:\Users\Tim\Desktop\guia 1\ejercicio1\ejercicio1\obj\Debug\ejercicio1.csprojResolveAssemblyReference.cache
+C:\Users\Tim\Desktop\guia 1\ejercicio1\ejercicio1\obj\Debug\ejercicio1.Form1.resources
+C:\Users\Tim\Desktop\guia 1\ejercicio1\ejercicio1\obj\Debug\ejercicio1.Properties.Resources.resources
+C:\Users\Tim\Desktop\guia 1\ejercicio1\ejercicio1\obj\Debug\ejercicio1.csproj.GenerateResource.Cache
+C:\Users\Tim\Desktop\guia 1\ejercicio1\ejercicio1\obj\Debug\ejercicio1.exe
+C:\Users\Tim\Desktop\guia 1\ejercicio1\ejercicio1\obj\Debug\ejercicio1.pdb
+C:\Users\Tim\Desktop\guia 1\ejercicio1\ejercicio1\obj\Debug\ejercicio1.ejercicio2.resources
+C:\Users\Tim\Desktop\guia 1\ejercicio1\ejercicio1\obj\Debug\ejercicio1.MDIParent1.resources
+C:\Users\Tim\Desktop\guia 1\ejercicio1\ejercicio1\obj\Debug\ejercicio1.ejercicio3.resources
+C:\Users\Tim\Desktop\guia 1\ejercicio1\ejercicio1\obj\Debug\ejercicio1.ejercicio4.resources
